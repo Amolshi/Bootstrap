@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+font-size: 3.5rem;
+}
+p{
+    font-weight: 400;
+    font-size: 1rem;
+    color: #000;
+    line-height: 1.50rem;
+    text-rendering: optimizeLegibility;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+button, a{
+    font-size: 1.15rem!important;
+}
+
+
+.nav-link{
+    color:#ffffff;
+}
+.hero-section .container{
+    display: grid;
+    place-content: center;
+    height: inherit;
+}
+
+.bg-main{
+    height: 90vh;
+    position: relative;
+}
+
+.bg-color{
+    background-color: #000;
+}
+
+
+
+.img--section{
+    height: auto;
+    width: 25rem;
+    border-radius: 2rem;
+}
+
+.text-light-grey{
+    color: #bcbcbccf;
+}
+
+.custom-shape-divider-bottom-1721902442 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1721902442 svg {
+    position: relative;
+    display: block;
+    width: calc(124% + 1.3px);
+    height: 75px;
+}
+
+.custom-shape-divider-bottom-1721902442 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+/* services section */
+
+.common-heading{
+    font-size: 2.5rem;
+    font-weight: 500;
+    letter-spacing: 0.01rem!important;
+}
+
+.common-title{
+    margin-bottom: 4rem;
+}
+.services-section{
+    padding:6rem 0 3rem 0!important;
+}
+.icon-span{
+    width: 2rem;
+    height: 2rem;
+    background-color: #29a9fd;
+    color:#fff ;
+}
+.card-box:hover{
+    box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
+}
+/* .more-info-section{
+    background-image: linear-gradient(rgba(22,22,22,0,1),rgba(22,22,22,0,)), url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotcore.info%2Fbabki%2Flogin-background-images-for-website.htm&psig=AOvVaw1URy9F3OQ3dtTWzUPc3FVP&ust=1721992562049000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjD5KqIwocDFQAAAAAdAAAAABAJ);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 6rem;
+    overflow: hidden;
+} */
+
+.business-section{
+    padding-top: 3rem;
+}
+
+.common-section{
+padding: 0 0 9rem 0;
+}
+
+.carousel .card{
+    background-color: #262631;
+    color: #fff;
+    transition: 0.3s linear;
+}
+.carousel-inner .card p{
+    color: #fff;
+}
+.carousel-inner .card:hover{
+    background: #fff;
+    color: #000;
+}
+.carousel-inner .card:hover p{
+    color: #000;
+}
+.fa-star{
+    color: #db27eb;
+}
+.carousel-indicators{
+    bottom: -100px;
+}
+.text-grey{
+    color: #7e7e87;
+}
+.text-light-grey{
+    color: 7e7e87;
+}
+
+.contact-section{
+    position: relative;
+}
+.custom-shape-divider-top-1721995915 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1721995915 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1721995915 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.contact-section .common-title{
+    padding-top: 6rem;
+}
+.contact-section .form-section{
+    width: 50%;
+}
+
+
+
+.main-footer-section{
+    padding: 0 0 4rem 0;
+    color: #fff;
+}
+
+.contact-div{
+    background-color: #0c0c0cb8;
+}
+
+.icon-div{
+    width: 70px;
+    height: 60px;
+}
